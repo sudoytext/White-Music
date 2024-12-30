@@ -1,2 +1,1 @@
-# White-Music
-nice music bot
+# Sound Cloud discord Bot & remake
